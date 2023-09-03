@@ -1,0 +1,8 @@
+2023-09-03 16:02:08,076 - ERROR: ZeroDivisionError: division by zero
+2023-09-03 16:02:46,907 - ERROR: An unexpected error occurred: unsupported operand type(s) for /: 'str' and 'int'
+2023-09-03 16:02:56,789 - ERROR: An unexpected error occurred: unsupported operand type(s) for /: 'int' and 'str'
+2023-09-03 16:22:12,234 - ERROR: ZeroDivisionError: division by zero
+2023-09-03 16:25:59,488 - ERROR: ZeroDivisionError: division by zero
+2023-09-03 16:30:03,096 - ERROR: ZeroDivisionError: division by zero
+2023-09-03 16:33:05,042 - ERROR: CustomError: Value cannot be negative
+2023-09-03 16:45:20,214 - ERROR: CustomError: Empty data provided
